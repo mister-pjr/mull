@@ -61,4 +61,14 @@ RUN MULLCLI
 
 After both players have entered the game starts. First the game layout is displayed along with a random terrain contour. 
 The landing pad is denoted by 8 underscores (_). Trying to land anywhere else (the "mountains") will get you killed.
+Hitting the other ship will get both killed, and landing in the pad with too much speed is also a recipe for disaster. But it can be done...
 
+The left side of the display shows altitude (H), speed (S), remaining fuel (F), current thrust level (PWR) and side movement (SIDE).
+Speed displaying as negative means you're descending, positive means you're climbing. Side tells if you're moving left or right and the speed of that.
+
+Now for the controls: 0-9 is the thrust level; C moves you left, V moves right. As in space, if you start moving left or right, the movement can only be stopped by applying an opposite thrust of the same amount.
+Finally, D fires a missile to your left, F to your right. The Missiles are subject to lunar gravity so they start falling down while travelling. A new missile can only be launched when the previous one hits something or reaches the ground.
+
+When the game (or more properly a game round) finishes, a message will pop up on the server window asking if you want to go for another round. Reply with Y or N.
+
+Ufff... that's all (I think). Enjoy !
