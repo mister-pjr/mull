@@ -71,4 +71,7 @@ Finally, D fires a missile to your left, F to your right. The Missiles are subje
 
 When the game (or more properly a game round) finishes, a message will pop up on the server window asking if you want to go for another round. Reply with Y or N.
 
+Being able to land in the pad slow enough to survive, isn't easy but is doable. If Neil could do it, so can you!
+Later on, you can play with giving yourself less fuel and smaller admissible landing speeds.
+
 Ufff... that's all (I think). Enjoy !
