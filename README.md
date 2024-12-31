@@ -29,7 +29,7 @@ TKB @MULLCLI
 
 TKB @MULLSRV
 
-BUT... first we need to slightly the CMD files used by the task builder. The line RESCOM = SY:MULLCOM/RW must be added as the last line to MULLCLI.CMD and MULLSRV.CMD
+BUT... first we need to slightly modify the CMD files used by the task builder. The line RESCOM = SY:MULLCOM/RW must be added as the last line to MULLCLI.CMD and MULLSRV.CMD
 Now we can run the TKB commands above.
 
 To finish we need to assemble and build the common area module:
